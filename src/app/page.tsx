@@ -47,7 +47,5 @@ export default async function Home() {
         <li><strong>Padrão em todas as páginas</strong><span>A mesma qualidade da primeira à última lâmina.</span></li>
       </ul>
     </section>
-
-    <section className="zg-closing"><span className="zg-eyebrow">DO PRIMEIRO CLIQUE À ÚLTIMA PÁGINA</span><h2>Suas fotos têm histórias.<br/><em>Vamos dar forma a elas?</em></h2><Link className="button zg-button zg-button-dark" href="/albuns">Comece pelo seu álbum <ArrowUpRight size={18}/></Link></section>
   </div>;
 }
